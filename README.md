@@ -3,7 +3,7 @@
 
 <b>Ini adalah tugas evaluasi yang telah di pelajari pada bulan september.</b>
 
-+ materi
+ materi =
 - HTML
 - CSS
 - JAVASCRIPT
