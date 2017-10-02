@@ -20,6 +20,7 @@ body {
     display: inline;
     font-size: 13px;
     text-decoration: none;
+    text-transform: uppercase; 
 }
 #header li a {
     margin: 20px;
