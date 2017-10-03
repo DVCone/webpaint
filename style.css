@@ -102,13 +102,14 @@ p.description {
    margin: 30px 28px;
 }
 .menu img {
-    padding-bottom: 10px;
+    padding-bottom: 20px;
     width: 62px;
     height: 56px;
 }
 .menu h2 {
+    font-size: 15px;
     color: #505050;
-   padding: 5px; 
+    padding: 5px; 
 }
 .menu p {
     color: #7c7c7c;
