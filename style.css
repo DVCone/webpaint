@@ -36,6 +36,7 @@ body {
 .main-nav ul li a {
     padding: 10px 15px;
     color: #c4c4c4;
+    font-weight: 500;
     text-transform: uppercase;
     text-decoration: none;
 }
@@ -61,7 +62,7 @@ h1.open {
     padding-bottom: 20px;
     color: #d0d0d0;
     font-size: 62px;
-    font-weight: 100;
+    font-weight: 300;
 }
 p.description {
     margin-bottom: 50px;
