@@ -79,6 +79,7 @@ p.description {
     font-weight: 700;
     letter-spacing: 0.5px;
     text-transform: uppercase;
+    cursor: pointer;
 }
 #top-nav {
     padding: 30px 0;
