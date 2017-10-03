@@ -90,8 +90,9 @@ p.description {
 
 /*3*/
 .botom-bar {
+    text-align: center;
     display: inline-flex;
-    padding: 0 65px;
+    padding: 65px;
 }
 .menu {
    display: block;
@@ -102,8 +103,8 @@ p.description {
 }
 .menu img {
     padding-bottom: 10px;
-    width: 55px;
-
+    width: 62px;
+    height: 56px;
 }
 .menu h2 {
     color: #505050;
