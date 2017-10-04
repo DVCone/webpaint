@@ -1,6 +1,9 @@
 * {
 	margin: 0px;
 	padding: 0px;
+
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
 body {
     font-family: 'Lato', sans-serif;
@@ -105,7 +108,6 @@ p.description {
 }
 .menu img {
     padding-bottom: 20px;
-    width: 50px;
     height: 56px;
 }
 .menu h2 {
@@ -156,15 +158,19 @@ p.description {
     text-transform: uppercase;
     cursor: pointer;
 }
+@media 
+(-webkit-min-device-pixel-ratio: 2), 
+(min-resolution: 192dpi) { 
+    .coise button {
+    font-weight: 900;
+    }
+}
 .coise button.all {
     background-color: #5a5a5a;  
 }
 .imagess img {
     margin: 5px;
 }
-
-
-
 #section-fiture {
     text-align: center;
 }
