@@ -126,7 +126,7 @@ p.description {
 
 /*4*/
 .judul {
-    margin-top: 35px;
+    margin-top: 50px;
 }
 .judul h2 {
     color: #505050;
@@ -136,7 +136,7 @@ p.description {
 .judul p {
     color: #505050;
     font-size: 20px;
-    font-weight: 200;
+    font-weight: 300;
     height: 45px;
     padding-top: 10px;
 }
