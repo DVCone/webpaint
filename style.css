@@ -140,7 +140,8 @@ p.description {
     font-size: 20px;
     font-weight: 300;
     height: 45px;
-    padding-top: 10px;
+    padding-top: 15px;
+    margin-bottom: 25px;
 }
 .coise {
     margin: 18px;
@@ -173,6 +174,7 @@ p.description {
 }
 #section-fiture {
     text-align: center;
+    height: 950px;
 }
 
 
