@@ -7,6 +7,8 @@ body {
     font-size: 14px;
     font-weight: 400;
 }
+
+/*1*/
 .container {
     max-width: 1140px;
     margin: auto;
@@ -103,7 +105,7 @@ p.description {
 }
 .menu img {
     padding-bottom: 20px;
-    width: 62px;
+    width: 50px;
     height: 56px;
 }
 .menu h2 {
@@ -122,6 +124,50 @@ p.description {
     background-color: #f8f8f8;
 }
 
+/*4*/
+.judul {
+    margin-top: 35px;
+}
+.judul h2 {
+    color: #505050;
+    font-size: 28px;#5a5a5aht: 45px;
+    font-weight: 900;
+}
+.judul p {
+    color: #505050;
+    font-size: 20px;
+    font-weight: 200;
+    height: 45px;
+    padding-top: 10px;
+}
+.coise {
+    margin: 18px;
+}
+.coise button {
+    margin-right: 6px;
+    padding: 9px 15px;
+    background-color: #f74d4c;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+.coise button.all {
+    background-color: #5a5a5a;  
+}
+.imagess img {
+    margin: 5px;
+}
+
+
+
+#section-fiture {
+    text-align: center;
+}
 
 
 
