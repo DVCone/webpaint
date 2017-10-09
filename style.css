@@ -132,7 +132,7 @@ p.description {
 }
 .judul h2 {
     color: #616161;
-    font-size: 28px;#5a5a5aht: 45px;
+    font-size: 28px;
     font-weight: 900;
 }
 .judul p {
@@ -177,9 +177,62 @@ p.description {
     height: 950px;
 }
 
+/*5*/
+.kepala {
+    /*margin-top: 50px;*/
+}
+.kepala h2 {
+    padding-top: 55px;
+    color: #dfdfdf;
+    font-size: 28px;
+    font-weight: 900;
+}
+.kepala p {
+    color: #616161;
+    font-size: 20px;
+    font-weight: 300;
+    height: 35px;
+    padding-top: 15px;
+    margin-bottom: 25px;
+}
+.isi {
+    display: inline-flex;
+    color: #e0e0e0;
+}
+.isi p {
+    color: #bdbdbd;
+    font-size: 13px;
+    margin-right: 15px;
+}
+.isi  img {
+    width: 13px;
+    height: 13px;
+    padding-right: 10px;
+}
+.medsos img {
+    width: 40px;
+    padding-top: 30px;
+    padding-right: 5px;
+}
+#bawah {
+    text-align: center;
+    background-color: #252525;
+    height: 300px;
+}
 
-
-
+/*6*/
+.copyr {
+    text-align: center;
+    height: 70px;
+}
+.copyr p {
+    font-size: 14px;
+    color: #bebebe;
+    padding-top: 25px;
+}
+#cpry {
+    background-color: #202020;
+}
 
 
 
